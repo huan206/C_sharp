@@ -1,0 +1,20 @@
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\bin\Debug\AppNote.exe.config
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\bin\Debug\AppNote.exe
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\bin\Debug\AppNote.pdb
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\obj\Debug\AppNote.csprojAssemblyReference.cache
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\obj\Debug\AppNote.Form1.resources
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\obj\Debug\AppNote.Properties.Resources.resources
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\obj\Debug\AppNote.csproj.GenerateResource.cache
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\obj\Debug\AppNote.csproj.CoreCompileInputs.cache
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\obj\Debug\AppNote.exe
+C:\Users\huan.nguyen22\source\repos\AppNote\AppNote\obj\Debug\AppNote.pdb
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\bin\Debug\AppNote.exe.config
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\bin\Debug\AppNote.exe
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\bin\Debug\AppNote.pdb
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\obj\Debug\AppNote.csprojAssemblyReference.cache
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\obj\Debug\AppNote.Form1.resources
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\obj\Debug\AppNote.Properties.Resources.resources
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\obj\Debug\AppNote.csproj.GenerateResource.cache
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\obj\Debug\AppNote.csproj.CoreCompileInputs.cache
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\obj\Debug\AppNote.exe
+C:\Users\NK DN\Desktop\AppNote\AppNote\AppNote\obj\Debug\AppNote.pdb
